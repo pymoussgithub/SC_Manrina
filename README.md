@@ -27,6 +27,3 @@ npm run deploy
 ```
 ### 4. Go to the app reposiroty to run the dApp Manrina
 https://github.com/pymoussgithub/dApp_Manrina/blob/main/README.md
-
-### Note : 
-The .env file has to be added. Please ask Sébastien to get the .env file. 
