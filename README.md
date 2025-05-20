@@ -8,11 +8,12 @@ This repository is intended **for the Massa Foundation teams** to conduct a **te
 
 Please follow the steps below :
 
-### 1. Clone the repository
+### 1. Clone the repository and install dependencies
 
 ```bash
 git clone https://github.com/pymoussgithub/SC_Manrina.git
 cd SC_Manrina
+npm install
 ```
 
 ### 2. Build the project
